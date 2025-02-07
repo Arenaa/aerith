@@ -1,1 +1,3 @@
-# AERITH: Agentic Evaluation of Requirements in Images by Tool Handling
+## AERITH
+
+Agentic Evaluation of Requirements in Images by Tool Handling
